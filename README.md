@@ -2,7 +2,7 @@
 
 <img alt="Website" src="https://img.shields.io/badge/owner-leoka-blue"> <img alt="Website" src="https://img.shields.io/badge/purpose-Learn-red">
 
-This repo contains to build a decentralized app (DAPP)
+This repo contains projects to build a decentralized app (DAPP) and also the centralized app which we moved to decentralized.
 
 ## :phone: Connect
 
