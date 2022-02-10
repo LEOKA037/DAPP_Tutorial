@@ -4,6 +4,19 @@
 
 This repo contains projects to build a decentralized app (DAPP) and also the centralized app which we moved to decentralized.
 
+### REMIX Editor 
+https://remix.ethereum.org/
+
+### MetaMask
+https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+
+To get free ethereum for Test on rinkeby test network without posting in social media in https://faucet.rinkeby.io/
+try
+https://faucets.chain.link/rinkeby
+https://www.rinkebyfaucet.com/
+
+
 ## :phone: Connect
 
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fleoka1993.wixsite.com%2Fleoka">
