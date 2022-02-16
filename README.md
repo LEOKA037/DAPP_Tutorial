@@ -13,9 +13,10 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 
 To get free ethereum for Test on rinkeby test network without posting in social media in https://faucet.rinkeby.io/
 try
-https://faucets.chain.link/rinkeby
-https://www.rinkebyfaucet.com/
+  - https://faucets.chain.link/rinkeby
+  - https://www.rinkebyfaucet.com/
 
+Sample Tranaction: https://rinkeby.etherscan.io/tx/0xf4a9aa1758c6eca0ef6863ea5dc058b80e6acef0d4f8fb8d196150f824d152fc 
 
 ## :phone: Connect
 
